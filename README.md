@@ -76,6 +76,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![output](./webserver.png)
+![output](./web.png)
 
 
 ## RESULT:
